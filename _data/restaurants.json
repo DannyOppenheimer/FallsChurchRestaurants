@@ -1,0 +1,40 @@
+{
+	"restaurants": [
+		{
+			"name": "McDonalds",
+			"address": "7101 Leesburg Pike, Falls Church, VA 22043",
+			"website": "https://www.mcdonalds.com/us/en-us/location/va/falls-church/7101-leesburg-pike/20505.html",
+			"order": "https://www.ubereats.com/washington-dc/food-delivery/mcdonalds-flls-ch-ex-roys/zVM5OVqSRnCp9qRiBYeoaw?utm_source=McDs&utm_medium=Website&utm_term=McDWebsiteLink&ue=ue",
+			"type": "fastfood"
+		},
+		{
+			"name": "BBQ Chicken Falls Church",
+			"address": "7115 Leesburg Pike SUITE-107, Falls Church, VA 22043",
+			"website": "http://bbqchickenfallschurch.com/",
+			"order": "N/A",
+			"type": "barbeque"
+		},
+		{
+			"name": "Lazy Mike’s Delicatessen",
+			"address": "7049 Leesburg Pike, Falls Church, VA 22046",
+			"website": "https://lazymikesdeli.com/",
+			"order": "https://www.grubhub.com/restaurant/lazy-mikes-deli-7049-leesburg-pike-falls-church/1720407?classicAffiliateId=%2Fr%2Fw%2F1720407%2F&utm_source=lazymikesdeli.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=1720407",
+			"type": "deli"
+		},
+		{
+			"name": "Haandi Indian Cuisine",
+			"address": "1222 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.haandi.com/",
+			"order": "N/A",
+			"type": "indian"
+		},
+		{
+			"name": "Plaka Grill",
+			"address": "1216 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.plakagrill.com/",
+			"order": "https://www.toasttab.com/locations/b59cc40b-5652-4bba-99a6-cc4349ff5da0#!/",
+			"type": "greek"
+		}
+	]
+	
+}

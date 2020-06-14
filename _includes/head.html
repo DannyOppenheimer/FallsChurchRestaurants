@@ -1,0 +1,8 @@
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
+    {% if page.stylesheets %}
+        {% for stylesheet in page.stylesheets %}
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/{{ stylesheet }}.css">
+        {% endfor %}
+    {% endif %}
+</head>

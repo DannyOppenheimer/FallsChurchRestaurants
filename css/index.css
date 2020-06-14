@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+#title {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#title_banner {
+    background: #D9EBFF;
+    padding: 5vw 5vw 5vw 10vw;
+}
+
+#spinner {
+    background: #D3D3D3;
+    padding: 1vw 1vw 1vw 1vw;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#spinner #down_arrow {
+    width: 1.7vw;
+    height: 1.7vw;
+}
+
+#master_restaurant_list:nth-child(4) {
+    background-color: gray;
+}  

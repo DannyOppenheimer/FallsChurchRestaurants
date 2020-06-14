@@ -1,0 +1,31 @@
+---
+layout: default
+title: Home
+description: The Home page for the APC at George Mason High School
+stylesheets:
+  - index
+---
+
+<main>
+    <div id='title_banner'>
+        <h1 id="title">Falls Church Restaurants</h1>
+    </div>
+    <div id="spinner">
+        <table>
+            <tr>
+                <td><img id="down_arrow" src='down.png'></td>
+                <td><p>Family or friends can't decide? Spin to choose a random restaurant!</p></td>
+            </tr>
+        </table>
+    </div>
+    <table id='master_restaurant_list'>
+        {% for restaurant in site.data.restaurants.restaurants %}
+            <tr class="master_row">
+                <td class="master_cell">{{ restaurant.name }}</td>
+                <td>{{ restaurant.address }}</td>
+                <td><a target="_blank" href={{ restaurant.website }}><button class="link_button">Visit Website</button></a></td>
+                <td><a target="_blank" href={{ restaurant.order }}><button class="link_button">Order Now</button></a></td>
+            </tr>
+        {% endfor %}
+    </table>
+</main>
