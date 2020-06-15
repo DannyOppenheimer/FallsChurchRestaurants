@@ -28,20 +28,5 @@ scripts:
             </tr>
         </table>
     </div>
-    <table id='master_restaurant_list'>
-        <tr class="header_row">
-            <td>Restaurant</td>
-            <td>Address</td>
-            <td>Website</td>
-            <td>Easy Order</td>
-        </tr>
-        {% for restaurant in site.data.restaurants.restaurants %}
-            <tr class="master_row">
-                <td class="master_cell">{{ restaurant.name }}</td>
-                <td>{{ restaurant.address }}</td>
-                <td><a target="_blank" href={{ restaurant.website }}><button class="link_button">Visit Website</button></a></td>
-                <td><a target="_blank" href={{ restaurant.order }}><button class="link_button">Order Now</button></a></td>
-            </tr>
-        {% endfor %}
-    </table>
+    <table id='master_restaurant_list'></table>
 </main>

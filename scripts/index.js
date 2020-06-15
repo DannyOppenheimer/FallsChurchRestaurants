@@ -1,26 +1,28 @@
-'use strict';
 
-async function loadTable() {
+window.addEventListener('load', () => {
+    
+    loadTable();
+});
+
+function loadTable() {
     let master_list = document.getElementById('master_restaurant_list');
     master_list.innerHTML = '';
 
-    // create a new header
-    let header_row = document.createElement("TR");
-    header_row.className = "header_row";
+	// create a new header
+	let header_row = master_list.insertRow(0);
+    header_row.className = 'header_row';
 
-    let header_name = document.createElement("TD");
-    header_name.innerHTML = "Restaurant";
-    header_row.appendChild(header_name);
+	let header_name = header_row.insertCell(0)
+	header_name.innerHTML = 'Restaurant';
 
-    let header_address = document.createElement("TD");
-    header_address.innerHTML = "Address"
-    header_row.appendChild(header_address);
+	let header_address = header_row.insertCell(0)
+	header_address.innerHTML = 'Address';
 
-    let header_website = document.createElement("TD");
-    header_website.innerHTML = "Website"
-    header_row.appendChild(header_website);
+	let header_website = header_row.insertCell(0)
+	header_website.innerHTML = 'Website';
 
-    let header_order = document.createElement("TD");
-    header_order.innerHTML = "Easy Order"
-    header_row.appendChild(header_order);
+	let header_order = header_row.insertCell(0)
+    header_order.innerHTML = 'Easy Order';
+    
+    // add each new row
 }

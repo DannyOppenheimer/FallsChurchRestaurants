@@ -1,11 +1,13 @@
 *{
     margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
 }
 
 #title {
     text-align: center;
     font-size: 3em;
-    font-family: 'Josefin Sans', sans-serif;
+    
 }
 
 #title_banner {
@@ -17,8 +19,6 @@
     background: #D3D3D3;
     padding: 1vw 1vw 1vw 1vw;
     font-size: 1em;
-    font-weight: bold;
-    font-family: 'Josefin Sans', sans-serif;
     border-bottom: 2px solid #ddd;
 }
 
@@ -26,8 +26,6 @@
     background: #D3D3D3;
     padding: 1vw 1vw 1vw 1vw;
     font-size: 1em;
-    font-weight: bold;
-    font-family: 'Josefin Sans', sans-serif;
     border-bottom: 2px solid #ddd;
 }
 
@@ -37,7 +35,6 @@
 }
 
 #master_restaurant_list {
-    font-family: 'Josefin Sans', sans-serif;
     width: 100%;
     border-collapse: collapse;
 }
@@ -52,9 +49,7 @@
 #master_restaurant_list button {
     border: none;
     border-radius: 0.75em;
-    font-weight: bold;
     background-color: #D9EBFF;
-    font-family: 'Josefin Sans', sans-serif;
     padding: 0.5vw;
     width: 10vw;
 }
