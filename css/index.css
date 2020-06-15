@@ -19,16 +19,23 @@
     font-size: 1em;
     font-weight: bold;
     font-family: 'Josefin Sans', sans-serif;
+    border-bottom: 2px solid #ddd;
 }
 
-#spinner #down_arrow {
+#filter {
+    background: #D3D3D3;
+    padding: 1vw 1vw 1vw 1vw;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    border-bottom: 2px solid #ddd;
+}
+
+.down_arrow {
     width: 1.7vw;
     height: 1.7vw;
 }
 
-#master_restaurant_list:nth-child(4) {
-    background-color: gray;
-}  
 #master_restaurant_list {
     font-family: 'Josefin Sans', sans-serif;
     width: 100%;
@@ -53,5 +60,5 @@
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #C8C8C8;
 }
