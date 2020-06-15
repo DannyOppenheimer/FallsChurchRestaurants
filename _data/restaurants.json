@@ -5,7 +5,7 @@
 			"address": "7101 Leesburg Pike, Falls Church, VA 22043",
 			"website": "https://www.mcdonalds.com/us/en-us/location/va/falls-church/7101-leesburg-pike/20505.html",
 			"order": "https://www.ubereats.com/washington-dc/food-delivery/mcdonalds-flls-ch-ex-roys/zVM5OVqSRnCp9qRiBYeoaw?utm_source=McDs&utm_medium=Website&utm_term=McDWebsiteLink&ue=ue",
-			"tags": ["fastfood", "franchise"]
+			"tags": ["fastfood"]
 		},
 		{
 			"name": "BBQ Chicken Falls Church",
@@ -34,6 +34,48 @@
 			"website": "https://www.plakagrill.com/",
 			"order": "https://www.toasttab.com/locations/b59cc40b-5652-4bba-99a6-cc4349ff5da0#!/",
 			"tags": ["greek"]
+		},
+		{
+			"name": "Tasty Dumpling",
+			"address": "1112 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.seamless.com/menu/tasty-dumpling-1112-w-broad-st-falls-church/1977908",
+			"order": "https://www.seamless.com/menu/tasty-dumpling-1112-w-broad-st-falls-church/1977908",
+			"tags": ["chinese", "local"]
+		},
+		{
+			"name": "Rania's Love",
+			"address": "1136 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.grubhub.com/restaurant/ranias-love--the-vegetarian-restaurant-1106-w-broad-st-falls-church/2036585",
+			"order": "https://www.grubhub.com/restaurant/ranias-love--the-vegetarian-restaurant-1106-w-broad-st-falls-church/2036585",
+			"tags": ["viatnamese", "local", "vegetarian"]
+		},
+		{
+			"name": "Sweet Rice",
+			"address": "1113 W Broad St, Falls Church, VA 22046",
+			"website": "https://sweetricethai.net/",
+			"order": "https://sweetricethai.net/delivery/",
+			"tags": ["thai", "local"]
+		},
+		{
+			"name": "Saffron Indian Cuisine",
+			"address": "1077 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.saffronindiancuisineva.com/",
+			"order": "https://www.beyondmenu.com/28234/falls-church/saffron-indian-cuisine-falls-church-22046.aspx?utm_source=satellite&utm_medium=home_order&pk_vid=7b5ca084f603d5c81592181587a4a9d1",
+			"tags": ["indian", "local"]
+		},
+		{
+			"name": "Taco Bell",
+			"address": "935 W Broad St, Falls Church, VA 22046",
+			"website": "https://locations.tacobell.com/va/falls-church/935-west-broad-street.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=036546&utm_content=website",
+			"order": "https://www.grubhub.com/restaurant/taco-bell-935-w-broad-st-falls-church/1452961?utm_medium=enterprise-rest_partner&utm_source=tacobell.com&utm_campaign=rest-brand_QY4TcPQZEeiF0QmVc7PI6Q&store=036546",
+			"tags": ["fastfood"]
+		},
+		{
+			"name": "Einstein Bros. Bagels",
+			"address": "913 W Broad St, Falls Church, VA 22046",
+			"website": "https://locations.einsteinbros.com/us/va/falls-church/913-w-broad-st",
+			"order": "N/A",
+			"tags": ["deli"]
 		}
 	]
 	
