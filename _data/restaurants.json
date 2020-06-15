@@ -25,7 +25,7 @@
 			"name": "Haandi Indian Cuisine",
 			"address": "1222 W Broad St, Falls Church, VA 22046",
 			"website": "https://www.haandi.com/",
-			"order": "N/A",
+			"order": "https://www.grubhub.com/restaurant/haandi-indian-cuisine-1222-w-broad-st-falls-church/1408718",
 			"tags": ["indian", "local"]
 		},
 		{
@@ -76,6 +76,104 @@
 			"website": "https://locations.einsteinbros.com/us/va/falls-church/913-w-broad-st",
 			"order": "N/A",
 			"tags": ["deli"]
+		},
+		{
+			"name": "Clare & Don's Beach Shack",
+			"address": "130 N Washington St, Falls Church, VA 22046",
+			"website": "https://clareanddons.com/",
+			"order": "https://app.upserve.com/s/clare-and-dons-beach-shack-falls-church?fbclid=IwAR3_nSW5Z7brdpwaJj-oUa4sDWgALC3WI2yOp8OL_S1q7RuMzZd_K9sb3xs",
+			"tags": ["seafood", "local"]
+		},
+		{
+			"name": "Dominion Wine and Beer",
+			"address": "107 Rowell Ct, Falls Church, VA 22046",
+			"website": "http://dominionwineandbeer.com/",
+			"order": "N/A",
+			"tags": ["bar", "local"]
+		},
+		{
+			"name": "Sfizi Cafe",
+			"address": "800 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.sfizi.com/",
+			"order": "https://sfizi.menufy.com/#/",
+			"tags": ["italian", "local"]
+		},
+		{
+			"name": "Dogwood Tavern",
+			"address": "132 W Broad St, Falls Church, VA 22046",
+			"website": "https://www.dogwoodtavern.com/",
+			"order": "https://www.dogwoodtavern.com/order",
+			"tags": ["american","local"]
+		},
+		{
+			"name": "Chasin' Tails",
+			"address": "2200 N Westmoreland St, Arlington, VA 22213",
+			"website": "https://happydmv.com/",
+			"order": "https://www.toasttab.com/ctarlington/v3",
+			"tags": ["seafood"]
+		},
+		{
+			"name": "Hot N Juicy Crawfish",
+			"address": "116 W Broad St, Falls Church, VA 22046",
+			"website": "http://www.hotnjuicycrawfish.com/",
+			"order": "http://www.hotnjuicycrawfish.com/locations-2/falls-church-va",
+			"tags": ["seafood"]
+		},
+		{
+			"name": "Lucky Thai Restaurant",
+			"address": "240 W Broad St, Falls Church, VA 22046",
+			"website": "https://luckythaifallschurch.com/",
+			"order": "https://www.grubhub.com/restaurant/lucky-thai-240-w-broad-st-falls-church/338379",
+			"tags": ["thai", "local"]
+		},
+		{
+			"name": "Koi Koi Sushi and Roll",
+			"address": "450 W Broad St # 117, Falls Church, VA 22046",
+			"website": "https://koikoisushi.com/",
+			"order": "https://www.doordash.com/store/koi-koi-sushi-roll-falls-church-455216/en-US",
+			"tags": ["sushi", "local"]
+		},
+		{
+			"name": "Huong Viet Restaurant",
+			"address": "6785 Wilson Blvd, Falls Church, VA 22044",
+			"website": "http://huong-viet.com/menu.html",
+			"order": "N/A",
+			"tags": ["viatnamese", "local"]
+		},
+		{
+			"name": "Rice Paper",
+			"address": "6775 Wilson Blvd, Falls Church, VA 22044",
+			"website": "http://www.ricepaper-tasteofvietnam.com/",
+			"order": "N/A"
+			"tags": ["vietnamese", "local"]
+		},
+		{
+			"name": "Dogfish Head Alehouse",
+			"address": "6220 Leesburg Pike Seven Corners, Center, Falls Church, VA 22044",
+			"website": "https://dogfishalehouse.com/falls-church/",
+			"order": "https://dogfishalehouse.com/dogfish-alehouse-patios-open/",
+			"tags": ["brewpub", "local"]
+		},
+		{
+			"name": "Paisano's",
+			"address": "",
+			"website": "",
+			"order": "",
+			"tags": [""]
+		},
+		{
+			"name": "",
+			"address": "",
+			"website": "",
+			"order": "",
+			"tags": [""]
+		},
+		{
+			"name": "",
+			"address": "",
+			"website": "",
+			"order": "",
+			"tags": [""]
 		}
 	]
 	
