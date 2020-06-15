@@ -29,3 +29,29 @@
 #master_restaurant_list:nth-child(4) {
     background-color: gray;
 }  
+#master_restaurant_list {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+#master_restaurant_list td,  #master_restaurant_list tr{
+    padding: 1vw;
+}
+
+#master_restaurant_list th, #master_restaurant_list td {
+    border-bottom: 1px solid #ddd;
+}
+
+#master_restaurant_list button {
+    border: none;
+    border-radius: 0.75em;
+    font-weight: bold;
+    background-color: #D9EBFF;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0.5vw;
+    width: 10vw;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

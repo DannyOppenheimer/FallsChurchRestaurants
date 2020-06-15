@@ -18,7 +18,21 @@ stylesheets:
             </tr>
         </table>
     </div>
+    <div id='filter'>
+        <table>
+            <tr>
+                <td><img id="down_arrow" src='down.png'></td>
+                <td><p>Filter</p></td>
+            </tr>
+        </table>
+    </div>
     <table id='master_restaurant_list'>
+        <tr class="header_row">
+            <td>Restaurant</td>
+            <td>Address</td>
+            <td>Website</td>
+            <td>Easy Order</td>
+        </tr>
         {% for restaurant in site.data.restaurants.restaurants %}
             <tr class="master_row">
                 <td class="master_cell">{{ restaurant.name }}</td>
